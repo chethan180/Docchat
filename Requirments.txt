@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdfplumber
+openai
+cv2
+paddleocr
+docx
+io
